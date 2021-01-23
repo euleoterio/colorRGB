@@ -22,11 +22,76 @@ body {
   padding-bottom: 30px !important;
 }
 
+.contacts {
+  padding: 16px !important;
+  font-size: 17px !important;
+}
+
 .symbol {
-  padding-left: 90px !important;
+  padding-left: 50px !important;
 }
 
 .network {
-  padding-left: 120px !important;
+  padding-left: 100px !important;
+  padding-top: 16px !important;
+  padding-top: 5px !important;
   text-align: center;
+}
+
+.created {
+  font-size: 16px !important;
+  text-align: center;
+}
+
+@media only screen and (max-device-width: 900px) {
+  body {
+    width: 98%;
+    font-size: 13px !important;
+  }
+
+  h2 {
+    margin-right: 2px !important;
+    margin-left: 2px !important;
+    font-size: 25px !important;
+  }
+
+  .text {
+    /* padding-left: 50px !important; */
+  }
+
+  .square {
+    margin-left: 25%;
+  }
+
+  h3 {
+    font-size: 20px !important;
+  }
+
+  .contacts {
+    padding: 16px !important;
+  }
+
+  .symbol {
+    padding-left: 20px !important;
+    font-size: 13px !important;
+    /* text-align: center; */
+  }
+
+  .network {
+    padding-left: 50px !important;
+    padding-top: 10px !important;
+    text-align: center;
+  }
+
+  .contacts {
+    font-size: 14px !important;
+    padding-left: 10px !important;
+  }
+
+  .created {
+    font-size: 13px !important;
+    text-align: center;
+  }
+
+
 }
