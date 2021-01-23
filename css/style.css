@@ -84,14 +84,13 @@ body {
   }
 
   .contacts {
-    font-size: 14px !important;
-    padding-left: 10px !important;
+    font-size: 13.5px !important;
+    padding-left: 1px !important;
+    padding-right: 5px !important;
   }
 
   .created {
     font-size: 13px !important;
     text-align: center;
   }
-
-
 }
