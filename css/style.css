@@ -10,7 +10,7 @@ body {
 }
 
 .w3-container {
-  max-width: "800px";
+  max-width: 800px;
 }
 
 .text {
@@ -23,7 +23,6 @@ body {
 }
 
 .symbol {
-  width: "30px";
   padding-left: 90px !important;
 }
 
